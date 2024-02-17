@@ -1,0 +1,82 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Why do we build bridges
+    numbered: true
+    chapters:
+    - file: part1/intro_avoid
+    - file: part1/context
+      sections:
+        - file: part1/construction_climate
+        - file: part1/bridge_tech_designers
+    - file: part1/heuristics
+    - file: part1/keeping_track
+  - caption: Low-carbon design is good design
+    numbered: true
+    chapters:
+    - file: part2/intro_switch
+    - file: part2/materials
+      sections:
+      - file: part2/concrete
+      - file: part2/steel
+      - file: part2/asphalt
+    - file: part2/specification
+      sections:
+      - file: part2/highway
+      - file: part2/footcycle
+      - file: part2/rail
+      - file: part2/station
+      - file: part2/eco
+    - file: part2/carbon_and_cost
+      sections:
+      - file: part2/opportunities
+      - file: part2/prioritisation
+      - file: part2/communication
+  - caption: Good design is low-carbon design
+    numbered: true
+    chapters:
+    - file: part3/intro_improve
+    - file: part3/design_criteria
+      sections:
+      - file: part3/functional_requirements
+      - file: part3/loading
+      - file: part3/design_life
+      - file: part3/durability
+      - file: part3/safety
+      - file: part3/services
+    - file: part3/efficient_design
+      sections:
+      - file: part3/superstructure
+      - file: part3/substructure
+      - file: part3/foundations
+      - file: part3/abutments
+      - file: part3/surfacing
+      - file: part3/parapets
+      - file: part3/bearings
+      - file: part3/expansion_joints
+  - caption: Step change
+    numbered: true
+    chapters:
+    - file: part4/intro
+    - file: part4/stakeholders
+    - file: part4/ambition_is_default
+    - file: part4/project_risks
+      sections:
+      - file: part4/approvals
+      - file: part4/mitigation_vs_monitoring
+    - file: part4/good_looks_like
+    - file: part4/thinking_further
+      sections:
+      - file: part4/biodiversity
+      - file: part4/regenerative_design
+  - caption: End-game
+    chapters:
+    - file: part5/conclusion
+    - file: part5/community_contribution
+    - file: part5/acknowledgements
+    - file: part5/glossary
+    - file: part5/genindex
+  
