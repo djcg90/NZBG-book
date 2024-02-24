@@ -1,3 +1,5 @@
+# Introduction
+
 Welcome to this reference text for net-zero bridge design.
 
 This is a community-developed open-source project hosted by the {term}`Net-Zero Bridges Group` (NZBG) in the United Kingdom.
@@ -19,7 +21,7 @@ The medium-term goal is that community development of this resource will allow i
 
 Ultimately, with widespread engagement and institutional endorsement, we hope to become a genuine forum for debate and innovation;  with real influence and a structure that encourages faster progress in the development of general practice.
 
-It is worth noting that this book willingly steps outside the siloed realm of the bridge designer into other infrastructure disciplines and makes no excuses for doing so. Through challenge and cross-pollination of ideas we seek to better ourselves and the planet.
+It is worth noting that this book willingly steps outside the siloed realm of the bridge designer into other infrastructure disciplines and makes no excuses for doing so. Through challenge and cross-pollination of ideas we believe we are better placed to adapt our joint practice to support rather than exploit the planet.
 
 :::{note}
 This resource is published as a **web friendly** text book. A static pdf can also be downloaded from here...(TODO)

@@ -1,0 +1,22 @@
+\begin{sphinxtheindex}
+\let\lettergroup\sphinxstyleindexlettergroup
+\let\lettergroupDefault\sphinxstyleindexlettergroupDefault
+\let\spxpagem\sphinxstyleindexpagemain
+\let\spxentry\sphinxstyleindexentry
+\let\spxextra\sphinxstyleindexextra
+
+
+  \lettergroup{N}
+  \item \spxentry{Net\sphinxhyphen {}Zero Bridges Group}, \spxpagem{\hyperpage{53}}
+
+  \indexspace
+
+  \lettergroup{P}
+  \item \spxentry{PAS2080:2023}, \spxpagem{\hyperpage{53}}
+
+  \indexspace
+
+  \lettergroup{W}
+  \item \spxentry{whole\sphinxhyphen {}life carbon}, \spxpagem{\hyperpage{53}}
+
+\end{sphinxtheindex}
