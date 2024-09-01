@@ -77,6 +77,6 @@ parts:
     - file: part5/conclusion
     - file: part5/community_contribution
     - file: part5/acknowledgements
-    - file: part5/glossary
-    - file: part5/genindex
+    - file: part5/glossary_bibliography
+    - file: genindex
   

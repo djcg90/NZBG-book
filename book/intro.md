@@ -27,7 +27,7 @@ It is worth noting that this book willingly steps outside the siloed realm of th
 This resource is published as a **web friendly** text book. A static pdf can also be downloaded from here...(TODO)
 :::
 
-UK practitioners are likely to be familiar with the publicly available specification {term}`PAS2080:2023` [Carbon Management in Infrastructure and Built Environment](https://www.bsigroup.com/en-GB/insights-and-media/insights/brochures/pas-2080-carbon-management-in-infrastructure-and-built-environment/). For convenience this book seeks to align terminology with PAS2080, and in structure it follows the same high-level carbon reduction hierarchy.
+UK practitioners are likely to be familiar with the publicly available specification {cite}`PAS2080:2023` [Carbon Management in Infrastructure and Built Environment](https://www.bsigroup.com/en-GB/insights-and-media/insights/brochures/pas-2080-carbon-management-in-infrastructure-and-built-environment/). For convenience this book seeks to align terminology with PAS2080, and in structure it follows the same high-level carbon reduction hierarchy.
 > [Avoid](part1/intro_avoid.md) -> [Switch](part2/intro_switch.md) -> [Improve](part3/intro_improve.md)
 
 Finally it concludes with some detailed observations on infrastructure project delivery in the UK context; some specific trends, pressure points and blockers that the NZBG have identified as requiring a step-change in behaviour.
