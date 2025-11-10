@@ -4,7 +4,7 @@
 title: Net-Zero Bridge Design
 author: The Net-Zero Bridges Group
 copyright: "2024"  # Copyright year to be placed in the footer
-logo: NZBG_logo.png
+logo: images/NZBG_logo.png
 
 # Auto-exclude files not in the toc
 only_build_toc_files        : true
